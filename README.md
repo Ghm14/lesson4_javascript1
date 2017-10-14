@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 13th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Gavin McGuinness)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment allowed me to create code, assisting the program to work as an expenses calculator.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://ghm14.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (alert() displays a message in a dialog box. The dialog box will block the browser. )
+2. (You use comments to describe code for not only yourself but others looking at your work!)
+3. (Identifiers can only contain letters, numbers, the underscore, and the dollar sign.)
 
